@@ -24,3 +24,6 @@ Displays list of logged requests to website, with ability to search through them
 Provides abilities to create, update and delete projects that are shown on the website.
 
 ![Project Window](https://i.imgur.com/HQ4tZFh.png)
+
+## Source
+The source for this project will stay private.
