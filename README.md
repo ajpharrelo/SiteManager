@@ -18,7 +18,7 @@ Which displays the number of current projects and logged site requests and the a
 ### Logs Window
 Displays list of logged requests to website, with ability to search through them for specific strings/values/
 
-!
+![Network Logs](https://i.imgur.com/430xl4D.png)
 
 ### Project Management Window
 Provides abilities to create, update and delete projects that are shown on the website.
