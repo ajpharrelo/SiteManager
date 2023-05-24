@@ -25,5 +25,10 @@ Provides abilities to create, update and delete projects that are shown on the w
 
 ![Project Window](https://i.imgur.com/HQ4tZFh.png)
 
+### Snippet Management Window
+Provides ability to create and delete code snippets that are available in the Snippet Library
+
+![Snippet Window](https://i.imgur.com/ZhfdPC5.png)
+
 ## Source
 The source for this project will stay private.
